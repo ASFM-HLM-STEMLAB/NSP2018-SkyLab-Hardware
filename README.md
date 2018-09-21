@@ -2,10 +2,10 @@
 ASFM Near Space Program 2018 - SkyLab FlightComputer Hardware
 
 ## Welcome to NSP2018-SkyLab-Hardware repository
-The flight computer consists of a *ESP32* Micro Controller in the Adafruit Feather form factor. 
+The flight computer consists of a *ESP32* Microcontroller in the Adafruit Feather form factor. 
 [ESP32](https://www.adafruit.com/product/3405)
 
-* Optionally we are waiting for Particle.io to release their new mesh devices. We would prefer the development environment from Particle.io, for now we are awaiting for them to release, we should test compatibility when they do.<small>
+* Optionally we are waiting for Particle.io to release their new mesh line of MCUs. We love the development environment from Particle.io and their devices. For now we are awaiting for them to release the line, we should test compatibility when they do and hope for the best.<small>
 
 This device contains an onboard GPS, LoRa Radio, SDCard and Internal Pressure and Temp Sensor. It is designed to interface with an optional external Iridium RockBlock Satelite Module:
 [RockBlock Sat Modem](https://www.sparkfun.com/products/14498)
